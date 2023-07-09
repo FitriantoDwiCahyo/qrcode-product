@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "544541256627",
+    "project_id": "scan-barcode-226b0",
+    "storage_bucket": "scan-barcode-226b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544541256627:android:7f861312fcb534128db9c6",
+        "android_client_info": {
+          "package_name": "com.example.scan_barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544541256627-c2pk1jhla9bo09f4vrfal052es8bn5hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpl31Fs8C8Bl8B-JSgcCodPy_hjbwhfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544541256627-c2pk1jhla9bo09f4vrfal052es8bn5hm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544541256627-re3aake31jr76vq3rte8r38jb9nn8f4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scanBarcode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544541256627:android:00988c2bb96ec2ba8db9c6",
+        "android_client_info": {
+          "package_name": "com.example.scan_barcode_dua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544541256627-c2pk1jhla9bo09f4vrfal052es8bn5hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpl31Fs8C8Bl8B-JSgcCodPy_hjbwhfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544541256627-c2pk1jhla9bo09f4vrfal052es8bn5hm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544541256627-re3aake31jr76vq3rte8r38jb9nn8f4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scanBarcode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
